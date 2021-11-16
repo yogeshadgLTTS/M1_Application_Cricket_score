@@ -1,1 +1,1 @@
-# M1_Project-type_Cricket-score
+# M1_ProjectType_CricketScore
